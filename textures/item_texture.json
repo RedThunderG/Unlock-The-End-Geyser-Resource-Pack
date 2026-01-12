@@ -1,0 +1,15 @@
+{
+  "resource_pack_name": "endkey_bedrock",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "endkey_master_key": { "textures": "textures/items/master_key" },
+    "endkey_warden_key": { "textures": "textures/items/warden_key" },
+    "endkey_bastion_key": { "textures": "textures/items/bastion_key" },
+    "endkey_illager_key": { "textures": "textures/items/illager_key" },
+    "endkey_advancement": { "textures": "textures/items/advancement" },
+    "endkey_warden_lock": { "textures": "textures/items/warden_lock" },
+    "endkey_bastion_lock": { "textures": "textures/items/bastion_lock" },
+    "endkey_illager_lock": { "textures": "textures/items/illager_lock" },
+    "endkey_trial_lock": { "textures": "textures/items/trial_lock" }
+  }
+}
